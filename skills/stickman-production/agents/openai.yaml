@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stickman Production"
+  short_description: "Storyboard, voice, animate and verify vector shorts"
+  default_prompt: "Use $stickman-production to create a narrated vector cartoon with measured timing and editable sources."

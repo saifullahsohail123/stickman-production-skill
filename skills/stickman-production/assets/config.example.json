@@ -1,0 +1,8 @@
+{
+  "workspace": ".",
+  "vectorcraft_command": ["vectorcraft-cli", "mcp", "--headless", "--automation-read-root", "{workspace}", "--automation-write-root", "{workspace}"],
+  "concat_command": ["concat", "--mcp", "headless"],
+  "voicebox_url": "http://127.0.0.1:17493",
+  "request_timeout_seconds": 90,
+  "voices": {"hero": {"profile_id": null, "engine": "kokoro", "language": "en"}}
+}

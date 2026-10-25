@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "identity": {"number": 1, "slug": "small-victory", "language": "en", "version": 1},
+  "format": {"width": 640, "height": 360, "fps": 24, "duration_frames": 72},
+  "cast": {"hero": {"design": "White round head and torso, charcoal limbs, teal neck scarf.", "offscreen": false, "voice_key": "hero"}},
+  "lines": [],
+  "shots": [{"id": "s1", "start_frame": 0, "end_frame": 72, "file": "shots/s1.mp4", "visible_speakers": ["hero"], "camera": {"start_scale": 1.02, "end_scale": 1.04}}],
+  "audio": [],
+  "captions": [],
+  "caption_style": {"fontFamily": "sans-serif", "fontSize": 0.065, "fontWeight": 700, "color": "#fff7df", "strokeColor": "#272321", "strokeWidth": 0.004, "shadow": true}
+}
